@@ -1,8 +1,8 @@
-### **Sentiment Analysis using Classical Machine Learning**
+## **Sentiment Analysis using Classical Machine Learning**
 
 ### 
 
-##### **Overview**
+### **Overview**
 
 
 
@@ -14,7 +14,7 @@ The project focuses on understanding the impact of text preprocessing, feature e
 
 
 
-##### **Models Implemented**
+### **Models Implemented**
 
 
 
@@ -25,7 +25,7 @@ The project focuses on understanding the impact of text preprocessing, feature e
 
 
 
-##### **Text Representation Techniques**
+### **Text Representation Techniques**
 
 
 
@@ -35,7 +35,7 @@ The project focuses on understanding the impact of text preprocessing, feature e
 
 
 
-##### **Text Preprocessing**
+### **Text Preprocessing**
 
 
 
@@ -50,7 +50,7 @@ Text preprocessing was performed using spaCy, including:
 
 
 
-##### **Evaluation**
+### **Evaluation**
 
 
 
@@ -60,7 +60,7 @@ Text preprocessing was performed using spaCy, including:
 
 
 
-##### **Tech Stack**
+### **Tech Stack**
 
 
 
@@ -74,7 +74,7 @@ Environment: Jupyter Notebook
 
 
 
-##### 📁**Repository Structure**
+### 📁**Repository Structure**
 
 ├── sentiment\_analysis.ipynb
 
@@ -82,7 +82,7 @@ Environment: Jupyter Notebook
 
 
 
-##### **How to Run**
+### **How to Run**
 
 
 
@@ -98,10 +98,11 @@ Step-5: Run all cells sequentially
 
 
 
-##### **Key Takeaways**
+### **Key Takeaways**
 
 
 
 * Classical machine learning models can achieve strong baseline performance for sentiment analysis.
 * Text preprocessing using spaCy significantly improves model effectiveness.
 * TF-IDF with Logistic Regression provides a strong, interpretable baseline for sentiment classification.
+
